@@ -13,7 +13,7 @@ Organization: LinkUp Technology
 
 Location: Letang-9, Morang, Nepal
 
-Duration:2026-06-03(present)
+Duration:2026-06-03 to present
 
 ## Areas of Experience
 
